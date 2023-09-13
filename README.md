@@ -1,1 +1,1 @@
-# HW2_hash_practice
+# hash_practice
